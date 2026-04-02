@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ojmar/OneDrive/Documents/GitHub/DesignAnalytics/DAProj/Content/PlayerCharacter/BP_Player.uasset",
+				"C:/Users/ojmar/OneDrive/Documents/GitHub/DesignAnalytics/DAProj/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/ojmar/OneDrive/Documents/GitHub/DesignAnalytics/DAProj/Content/ThirdPerson/Input/Actions/IA_Walk.uasset",
+				"C:/Users/ojmar/OneDrive/Documents/GitHub/DesignAnalytics/DAProj/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/ojmar/OneDrive/Documents/GitHub/DesignAnalytics/DAProj/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ojmar/OneDrive/Documents/GitHub/DesignAnalytics/DAProj/Content/PlayerCharacter/ABP_Player.uasset",
+				"C:/Users/ojmar/OneDrive/Documents/GitHub/DesignAnalytics/DAProj/Content/Characters/Mannequins/Animations/ABP_Manny.uasset"
+			]
+		}
+	]
+}
