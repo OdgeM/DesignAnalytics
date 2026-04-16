@@ -12,15 +12,15 @@
 			]
 		},
 		{
-			"Name": "HttpBlueprint",
-			"Enabled": true
-		},
-		{
 			"Name": "AnalyticsBlueprintLibrary",
 			"Enabled": true
 		},
 		{
 			"Name": "FileLogging",
+			"Enabled": true
+		},
+		{
+			"Name": "VaRest",
 			"Enabled": true
 		}
 	]
